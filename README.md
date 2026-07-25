@@ -19,4 +19,4 @@ built as part of my 90-day Data Science journey.
 - Streamlit
 
 ## 👨‍💻 Built By
-Talari Pranay | #90DayDataScienceJourney
+Talari Pranay 

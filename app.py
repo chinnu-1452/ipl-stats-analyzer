@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="IPL Stats Analyzer", page_icon="🏏")
 
 st.title("🏏 IPL Stats Analyzer (2008-2024)")
-st.subheader("Built by Talari Pranay | 90 Day DS Journey")
+st.subheader("Built by Talari Pranay")
 
 df = pd.read_csv('matches.csv')
 
