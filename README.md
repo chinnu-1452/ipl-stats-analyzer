@@ -1,7 +1,6 @@
 # 🏏 IPL Stats Analyzer (2008-2024)
 
 A Data Science project analyzing 1095 IPL matches 
-built as part of my 90-day Data Science journey.
 
 ## 🔗 Live Demo
 [Click here to view the app](https://ipl-stats-analyzer-slteir63vgreygmulzthig.streamlit.app)
